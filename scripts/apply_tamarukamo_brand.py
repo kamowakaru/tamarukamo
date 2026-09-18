@@ -14,7 +14,7 @@ for path in ROOT.rglob('*'):
     text = text.replace('ワカルカモ', 'タマルカモ')
     text = text.replace('wakarukamo-point', 'tamarukamo-point')
     text = text.replace('WAKARUKAMO_GA_MEASUREMENT_ID', 'TAMARUKAMO_GA_MEASUREMENT_ID')
-    text = text.replace('PC・Web・AIの「わからない」が、わかるかも。', 'お金の「わからない」が、貯まるかも。')
+    text = text.replace('PC・Web・AIの「わからない」が、わかるかも。', '無理なく続けて、貯まるかも。')
     path.write_text(text, encoding='utf-8')
 
 # Do not carry the existing Wakarukamo AdSense account into a brand-new site.
