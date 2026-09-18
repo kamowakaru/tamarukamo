@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "saving",
+    "name": "節約",
+    "icon": "🧾",
+    "description": "固定費・食費・光熱費など"
+  },
+  {
+    "slug": "household-budget",
+    "name": "家計管理",
+    "icon": "📒",
+    "description": "家計簿・貯金・生活費など"
+  },
+  {
+    "slug": "income-up",
+    "name": "収入アップ",
+    "icon": "📈",
+    "description": "転職・副業・働き方など"
+  },
+  {
+    "slug": "nisa-investment",
+    "name": "NISA・投資信託",
+    "icon": "📊",
+    "description": "NISA・投資信託・商品比較"
+  },
+  {
+    "slug": "asset-building",
+    "name": "資産形成",
+    "icon": "🌱",
+    "description": "長期投資・FIRE・取り崩し"
+  },
+  {
+    "slug": "money-basics",
+    "name": "お金の基礎",
+    "icon": "💰",
+    "description": "税金・社会保険・金利など"
+  },
+  {
+    "slug": "life-plan",
+    "name": "ライフプラン",
+    "icon": "🏠",
+    "description": "住宅・教育費・老後など"
+  }
+]

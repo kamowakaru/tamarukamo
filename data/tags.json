@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "saving",
+    "name": "節約"
+  },
+  {
+    "slug": "household-budget",
+    "name": "家計管理"
+  },
+  {
+    "slug": "income-up",
+    "name": "収入アップ"
+  },
+  {
+    "slug": "nisa",
+    "name": "NISA"
+  },
+  {
+    "slug": "investment-trust",
+    "name": "投資信託"
+  },
+  {
+    "slug": "asset-building",
+    "name": "資産形成"
+  },
+  {
+    "slug": "money-basics",
+    "name": "お金の基礎"
+  },
+  {
+    "slug": "life-plan",
+    "name": "ライフプラン"
+  }
+]
